@@ -7,32 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		C8D876012CE0A31800A2A23B /* MQTTHelper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MQTTHelper.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C8D876322CE0A5B100A2A23B /* MQTTHelper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MQTTHelper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		C8D876132CE0A31900A2A23B /* Exceptions for "MQTTHelper" folder in "MQTTHelper" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = C8D876002CE0A31800A2A23B /* MQTTHelper */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		C8D876032CE0A31800A2A23B /* MQTTHelper */ = {
+		C8D876342CE0A5B100A2A23B /* MQTTHelper */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				C8D876132CE0A31900A2A23B /* Exceptions for "MQTTHelper" folder in "MQTTHelper" target */,
-			);
 			path = MQTTHelper;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		C8D875FE2CE0A31800A2A23B /* Frameworks */ = {
+		C8D8762F2CE0A5B100A2A23B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		C8D875F82CE0A31800A2A23B = {
+		C8D876292CE0A5B100A2A23B = {
 			isa = PBXGroup;
 			children = (
-				C8D876032CE0A31800A2A23B /* MQTTHelper */,
-				C8D876022CE0A31800A2A23B /* Products */,
+				C8D876342CE0A5B100A2A23B /* MQTTHelper */,
+				C8D876332CE0A5B100A2A23B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		C8D876022CE0A31800A2A23B /* Products */ = {
+		C8D876332CE0A5B100A2A23B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C8D876012CE0A31800A2A23B /* MQTTHelper.app */,
+				C8D876322CE0A5B100A2A23B /* MQTTHelper.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C8D876002CE0A31800A2A23B /* MQTTHelper */ = {
+		C8D876312CE0A5B100A2A23B /* MQTTHelper */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C8D876142CE0A31900A2A23B /* Build configuration list for PBXNativeTarget "MQTTHelper" */;
+			buildConfigurationList = C8D876402CE0A5B200A2A23B /* Build configuration list for PBXNativeTarget "MQTTHelper" */;
 			buildPhases = (
-				C8D875FD2CE0A31800A2A23B /* Sources */,
-				C8D875FE2CE0A31800A2A23B /* Frameworks */,
-				C8D875FF2CE0A31800A2A23B /* Resources */,
+				C8D8762E2CE0A5B100A2A23B /* Sources */,
+				C8D8762F2CE0A5B100A2A23B /* Frameworks */,
+				C8D876302CE0A5B100A2A23B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				C8D876032CE0A31800A2A23B /* MQTTHelper */,
+				C8D876342CE0A5B100A2A23B /* MQTTHelper */,
 			);
 			name = MQTTHelper;
 			packageProductDependencies = (
 			);
 			productName = MQTTHelper;
-			productReference = C8D876012CE0A31800A2A23B /* MQTTHelper.app */;
+			productReference = C8D876322CE0A5B100A2A23B /* MQTTHelper.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		C8D875F92CE0A31800A2A23B /* Project object */ = {
+		C8D8762A2CE0A5B100A2A23B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					C8D876002CE0A31800A2A23B = {
+					C8D876312CE0A5B100A2A23B = {
 						CreatedOnToolsVersion = 16.0;
 					};
 				};
 			};
-			buildConfigurationList = C8D875FC2CE0A31800A2A23B /* Build configuration list for PBXProject "MQTTHelper" */;
+			buildConfigurationList = C8D8762D2CE0A5B100A2A23B /* Build configuration list for PBXProject "MQTTHelper" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = C8D875F82CE0A31800A2A23B;
+			mainGroup = C8D876292CE0A5B100A2A23B;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = C8D876022CE0A31800A2A23B /* Products */;
+			productRefGroup = C8D876332CE0A5B100A2A23B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C8D876002CE0A31800A2A23B /* MQTTHelper */,
+				C8D876312CE0A5B100A2A23B /* MQTTHelper */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C8D875FF2CE0A31800A2A23B /* Resources */ = {
+		C8D876302CE0A5B100A2A23B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		C8D875FD2CE0A31800A2A23B /* Sources */ = {
+		C8D8762E2CE0A5B100A2A23B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,63 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		C8D876152CE0A31900A2A23B /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5M4H9Z6KHY;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MQTTHelper/Info.plist;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.xys.MQTTHelper;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		C8D876162CE0A31900A2A23B /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5M4H9Z6KHY;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MQTTHelper/Info.plist;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.xys.MQTTHelper;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
-		C8D876172CE0A31900A2A23B /* Debug */ = {
+		C8D8763E2CE0A5B200A2A23B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -257,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		C8D876182CE0A31900A2A23B /* Release */ = {
+		C8D8763F2CE0A5B200A2A23B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -313,28 +244,86 @@
 			};
 			name = Release;
 		};
+		C8D876412CE0A5B200A2A23B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"MQTTHelper/Preview Content\"";
+				DEVELOPMENT_TEAM = 5M4H9Z6KHY;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xys.MQTTHelper;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C8D876422CE0A5B200A2A23B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"MQTTHelper/Preview Content\"";
+				DEVELOPMENT_TEAM = 5M4H9Z6KHY;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xys.MQTTHelper;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C8D875FC2CE0A31800A2A23B /* Build configuration list for PBXProject "MQTTHelper" */ = {
+		C8D8762D2CE0A5B100A2A23B /* Build configuration list for PBXProject "MQTTHelper" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C8D876172CE0A31900A2A23B /* Debug */,
-				C8D876182CE0A31900A2A23B /* Release */,
+				C8D8763E2CE0A5B200A2A23B /* Debug */,
+				C8D8763F2CE0A5B200A2A23B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C8D876142CE0A31900A2A23B /* Build configuration list for PBXNativeTarget "MQTTHelper" */ = {
+		C8D876402CE0A5B200A2A23B /* Build configuration list for PBXNativeTarget "MQTTHelper" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C8D876152CE0A31900A2A23B /* Debug */,
-				C8D876162CE0A31900A2A23B /* Release */,
+				C8D876412CE0A5B200A2A23B /* Debug */,
+				C8D876422CE0A5B200A2A23B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = C8D875F92CE0A31800A2A23B /* Project object */;
+	rootObject = C8D8762A2CE0A5B100A2A23B /* Project object */;
 }

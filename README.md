@@ -1,2 +1,0 @@
-# MQTTHelper
-MQTT debug tool
